@@ -7,7 +7,7 @@
 
 - 👯 I recently collaborated on [Oppia](https://github.com/oppia/oppia)
 
-- 📫 How to reach me **rsaguesr@gmail.com**
+- 📫 Reach me **rsaguesr@gmail.com** !
 
 - 📄 Know about my experiences [ex:https://mycv.com](ex:https://mycv.com)
 
