@@ -9,7 +9,7 @@
 
 - 📫 Reach me **rsaguesr@gmail.com** !
 
-- 📄 Know about my experiences [ex:https://mycv.com](ex:https://mycv.com)
+- 📄 Know about my experiences [http://rafael.sagues.com.ve/cv](http://rafael.sagues.com.ve/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
